@@ -1,2 +1,2 @@
 # Snake-Game
-Snake game implimented in java with javafx GUI
+Snake game implemented in java with javafx GUI
